@@ -1,12 +1,38 @@
-## Hi there 👋
+# AI and Cloud by Your Side
 
-<!--
+누구나 쉽게 AI와 클라우드를 활용하고 우리의 삶에 가치와 효용을 더하는 세상으로 만들겠습니다.
 
-**Here are some ideas to get you started:**
+## 비전과 미션
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### VISION
+
+글로벌 최고의 혁신 선도 AI·CLOUD 기업
+
+### MISSION
+
+우리는 도전적으로 문제를 해결하고 강렬한 신기술로 최고의 경험을 나눌 수 있는 기술·제품·서비스를 고객에게 제공하여 고객이 삶의 가치와 효용을 더하는 세상을 만듭니다.
+
+## 핵심가치
+
+### Open Mind
+열린 마음
+
+내가 틀릴 수 있다는 겸허한 마음을 가집니다. 시대의 목소리에 귀 기울입니다.
+고객과 시장의 목소리에 열린 마음으로 대응합니다.
+
+### Partnership Spirit
+동업자 정신
+
+같은 목표를 가진 동업자를 상대로 합니다. 상대도 누군가의 귀한 부모, 자식, 형제자매라는 생각을 잊지 않습니다. 내 일이 많은 관련자에게 영향을 미칠 수 있음을 늘 생각합니다.
+
+### Challenge Spirit
+도전 의식
+
+열심히 한 실패는 한 번에 한 해 만대다 합디다. 새롭게 도전하는 것에 인색하지 않습니다.
+늘 개선을 위한 새로운 시도를 고민하고 실행합니다.
+
+### Professionalism
+전문가 정신
+
+맡은 일에는 최선을 다하는 것이 당연합니다. 자기 분야에서 최고가 되고자 노력합니다.
+변면에 업무 외적 성과는 철저히 부합 책임을 집니다.
