@@ -1,7 +1,7 @@
-name: "🛠 Task"
+name: "🛠 Feature"
 description: "Feature / Enhancement / Bugfix 등을 구성하는 하위 작업"
-title: "[Task] "
-labels: ["task"]
+title: "[Feature] "
+labels: ["Feature"]
 body:
   - type: textarea
     id: tasks
