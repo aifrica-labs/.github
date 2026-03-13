@@ -1,6 +1,5 @@
 name: "🧩 Feature"
 description: "새로운 기능 추가 또는 제품 가치에 직접적인 영향을 주는 기능 개발"
-label: "Add a feature"
 labels: ["feature"]
 
 body:
