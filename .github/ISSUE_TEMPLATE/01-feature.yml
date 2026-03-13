@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        새로운 기능 추가 또는 제품 가치에 직접적인 영향을 주는 기능 개발
+        ```Feature type``` 새로운 기능 추가 또는 제품 가치에 직접적인 영향을 주는 기능 개발
   - type: textarea
     id: Description
     attributes:
