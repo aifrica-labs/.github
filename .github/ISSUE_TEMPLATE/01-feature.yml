@@ -5,8 +5,15 @@ labels: ["feature"]
 body:
   - type: markdown
     attributes:
-      label: 설명
-      description: 새로운 기능 추가 또는 제품 가치에 직접적인 영향을 주는 기능 개발에 대한 설명
+      value: |
+        새로운 기능 추가 또는 제품 가치에 직접적인 영향을 주는 기능 개발
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Description
+      placeholder: ex. email@example.com
       value: |
         ## 기능 개요
           이 작업의 목적 또는 배경
@@ -23,4 +30,4 @@ body:
         - 노션 관련 링크(분석, 설계 등)
         - 스크린샷 (선택)
     validations:
-      required: true
+      required: false
