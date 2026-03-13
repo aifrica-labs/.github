@@ -1,6 +1,7 @@
 name: "✨ Enhancement"
 description: "기존 기능을 유지하면서 사용성, 성능, 완성도를 개선하는 작업 "
-labels: ["Enhancement"]
+labels: ["enhancement"]
+type: enhancement
 
 body:
   - type: markdown

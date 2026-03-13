@@ -1,6 +1,7 @@
 name: "🚑 Hotfix"
 description: "운영 환경에서 발생한 치명적인 이슈를 긴급히 수정하는 작업"
 labels: ["hotfix"]
+type: hotfix
 
 body:
   - type: markdown

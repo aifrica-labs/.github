@@ -1,6 +1,7 @@
 name: "🐞 Bugfix"
 description: "예기치 않은 오류나 잘못된 동작을 수정하는 작업 "
 labels: ["bugfix"]
+type: bugfix
 
 body:
   - type: markdown
