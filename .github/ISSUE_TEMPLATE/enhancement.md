@@ -1,7 +1,8 @@
 ---
 name: ✨ Enhancement 
 about: 기존 기능을 유지하면서 사용성, 성능, 완성도를 개선하는 작업 
-labels: enhancement 
+labels: enhancement
+type: enhancement 
 ---
 
 ## 개선 내용
