@@ -1,0 +1,28 @@
+name: "🚑 Hotfix"
+description: "운영 환경에서 발생한 치명적인 이슈를 긴급히 수정하는 작업"
+labels: ["hotfix"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ```Hotfix``` 운영 환경에서 발생한 치명적인 이슈를 긴급히 수정하는 작업
+  - type: textarea
+    id: Description
+    attributes:
+      label: Add a description
+      placeholder: "Hotfix"
+      value: |
+        ## 문제
+        운영 환경에서 발생한 문제 설명
+        
+        ## 영향 범위
+        서비스 영향 / 사용자 영향
+
+        ## 조치
+        - 반드시 체크리스트로 작성하지 않아도 됨
+        - 자유롭게 작업내용을 간략하게 작성
+        - 하위 태스크가 있다면 생략 가능
+        - [ ] 긴급 수정 내용
+    validations:
+      required: true

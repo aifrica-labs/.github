@@ -1,0 +1,30 @@
+name: "🔄 Refactoring"
+description: "외부 동작이나 기능 변경 없이 내부 구조, 가독성, 유지보수성을 개선하는 작업"
+labels: ["Refactoring"]
+type: refactoring
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ```Refactoring``` 외부 동작이나 기능 변경 없이 내부 구조, 가독성, 유지보수성을 개선하는 작업
+  - type: textarea
+    id: Description
+    attributes:
+      label: Add a description
+      placeholder: "Refactoring"
+      value: |
+        ## 리팩토링 대상
+        개선하려는 코드 또는 모듈
+          
+        ## 목적
+        가독성 / 유지보수성 / 구조 개선
+
+        ## 작업 내용
+        - 반드시 체크리스트로 작성하지 않아도 됨
+        - 자유롭게 작업내용을 간략하게 작성
+        - 하위 태스크가 있다면 생략 가능
+        - [ ] 작업 항목
+        - [ ] 작업 항목
+    validations:
+      required: true

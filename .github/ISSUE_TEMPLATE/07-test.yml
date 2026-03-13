@@ -1,0 +1,24 @@
+name: "🧪 Test"
+description: "테스트 코드 작성, 수정, 테스트 환경 개선과 관련된 작업"
+labels: ["test"]
+type: test
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ```Test``` 테스트 코드 작성, 수정, 테스트 환경 개선과 관련된 작업
+  - type: textarea
+    id: Description
+    attributes:
+      label: Add a description
+      placeholder: "Test"
+      value: |
+        ## 테스트 대상
+        테스트하려는 기능
+
+        ## 작업 내용
+        - [ ] 테스트 추가
+        - [ ] 테스트 수정
+    validations:
+      required: true
