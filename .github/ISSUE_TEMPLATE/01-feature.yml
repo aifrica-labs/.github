@@ -15,7 +15,7 @@ body:
       placeholder: ex. email@example.com
       value: |
         ## 기능 개요
-          이 작업의 목적 또는 배경
+        이 작업의 목적 또는 배경
 
         ## 작업 내용
         - 반드시 체크리스트로 작성하지 않아도 됨
