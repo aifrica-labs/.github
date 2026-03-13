@@ -9,8 +9,8 @@ body:
         새로운 기능 추가 또는 제품 가치에 직접적인 영향을 주는 기능 개발
     validations:
       required: true
-  - type: input
-    id: contact
+  - type: textarea
+    id: Description
     attributes:
       label: Description
       placeholder: ex. email@example.com
@@ -30,4 +30,4 @@ body:
         - 노션 관련 링크(분석, 설계 등)
         - 스크린샷 (선택)
     validations:
-      required: false
+      required: true
